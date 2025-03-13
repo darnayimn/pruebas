@@ -43,6 +43,10 @@ body{
         transform: rotate(-180deg)
         scale(1.2);
     }
+    80%{
+        transform: rotate(90deg)
+        scale(0.2);
+    }
     
 }
 
